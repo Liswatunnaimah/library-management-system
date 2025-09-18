@@ -1,0 +1,42 @@
+# ============ Python cache ============
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# ============ Virtualenv ============
+.venv/
+env/
+venv/
+
+# ============ Build / packaging ============
+build/
+dist/
+downloads/
+.eggs/
+*.egg-info/
+*.egg
+*.whl
+
+# ============ Test artifacts ============
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ============ Editors / OS ============
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# ============ Project artifacts ============
+# Semua hasil export (CSV/XLSX/PNG) keluar di sini
+outputs/
+
+# Jaga data sumber tetap di Git:
+#  - data/books.json           (sengaja tidak di-ignore)
+#  - data/deleted_books.json   (sengaja tidak di-ignore)
+
+# ============ Jupyter (kalau ada) ============
+.ipynb_checkpoints/
