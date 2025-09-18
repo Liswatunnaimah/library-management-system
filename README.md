@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+![CI](https://github.com/Liswatunnaimah/library-management-system/actions/workflows/ci.yml/badge.svg)
+
 # Library Management System (CLI)
 
 Aplikasi Command Line Interface (CLI) untuk mengelola katalog perpustakaan.
@@ -202,6 +203,4 @@ Top-5 penulis:
 ```
 
 ---
-=======
-# library-management-system
->>>>>>> 1d11e18ae09f466e6702700eb1f9fdb1f7dca952
+
